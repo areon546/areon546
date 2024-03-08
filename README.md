@@ -9,5 +9,6 @@ project concepts:
 - create a dictionary cracker
 - discord bot
 - automatically send 'Happy Birthday {}' to people's phone numbers based on a date I configure
+- a random number generator, implemented entirely by me. my own implementation that i can play with
 
 
