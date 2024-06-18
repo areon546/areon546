@@ -10,5 +10,7 @@ project concepts:
 - discord bot
 - automatically send 'Happy Birthday {}' to people's phone numbers based on a date I configure
 - a random number generator, implemented entirely by me. my own implementation that i can play with
+- QR code reader
+- Conways Game of Life thing
 
 
