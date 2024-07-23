@@ -11,6 +11,10 @@ project concepts:
 - automatically send 'Happy Birthday {}' to people's phone numbers based on a date I configure
 - a random number generator, implemented entirely by me. my own implementation that i can play with
 - QR code reader
+- a QR code maze generator, it generates a qr code that acts like a maze
 - Conways Game of Life thing
+- 
 
 
+completed projects:
+- ummm
