@@ -12,9 +12,9 @@
 
 <br><br>
 <center>
-<img align="" height='130px' alt='img-not-loaded' src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg">
+<!-- <img align="" height='130px' alt='img-not-loaded' src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake.svg"> -->
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=Aren546&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aren546&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=Areon546&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areon546&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact">
 </center>
 
