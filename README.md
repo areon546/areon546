@@ -1,7 +1,9 @@
 ## Hi, I'm [Areon546!](https://github.com/areon546) 
 
-- :telescope: I'm currently studying Computer Science at Queen Mary, University of London 💻;
-- :hourglass_flowing_sand: Learning Go lang, Java and Python;
+- Studying: Computer Science at Queen Mary, University of London
+- Learning: Golang
+
+<!--
 - MY LANGUAGES: <br><br>
 ![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python)
@@ -9,6 +11,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=html5)
 ![Markdown](https://img.shields.io/badge/-Markdown-000?style=for-the-badge&logo=markdown)
 ![tex](https://img.shields.io/badge/-Tex-000?style=for-the-badge&logo=latex)
+-->
 
 <br><br>
 <center>
