@@ -5,6 +5,10 @@ active projects:
   - it creates a database of 10 scores, their mods, and everything, and then compares this against a list and stuff and then compiles a save file
 
 project concepts:
+- archery website database where i can input certain details (# arrows, notes) and keep track of that in a database
+
+
+
 - make a thing that lets users input recipies and be given one by random
 - create a dictionary cracker
 - discord bot
