@@ -14,5 +14,5 @@
 ![tex](https://img.shields.io/badge/-Tex-000?style=for-the-badge&logo=latex)
 -->
 
-![areon546's Streak](https://github-readme-streak-stats.herokuapp.com/?user=areon546&theme=monokai&hide_border=false)
+![areon546's Streak](https://github-readme-streak-stats.herokuapp.com/?user=areon546)
 
